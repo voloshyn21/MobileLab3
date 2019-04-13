@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestDB</string>
+    <string name="item">ItemString</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+    <string name="moreinfoheader">Her comes more info about your item</string>
+    <string name="moreinfo">More info\nMore info\nMore info\nMore info\nMore info\nMore info\nMore info\n</string>
+    <string name="input_hint">Type something</string>
+</resources>
